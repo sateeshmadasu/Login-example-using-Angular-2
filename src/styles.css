@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.help-block {
+    font-size: 12px;
+}
+
+@media screen and (min-width: 768px)
+{
+    .mainDiv {
+        padding-top: 148px;
+        padding-bottom: 148px;
+    }
+}
+
+.mainDiv {
+    color: inherit;
+}
